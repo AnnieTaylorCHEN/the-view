@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Elephants Dream",
+    "description": "Emo and Proog are two men exploring a strange industrial world of the future.",
+    "origin": "https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4",
+    "length": 654000
+  },
+  {
+    "id": 2,
+    "title": "Big Buck Bunny",
+    "description": "A recently awoken enormous and utterly adorable fluffy rabbit is heartlessly harassed by a flying squirrel's gang of rodents who are determined to squash his happiness.",
+    "origin": "https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4",
+    "length": 596000
+  },
+  {
+    "id": 3,
+    "title": "Sintel",
+    "description": "The film follows a girl named Sintel who is searching for a baby dragon she calls Scales.",
+    "origin": "https://archive.org/download/Sintel/sintel-2048-stereo_512kb.mp4",
+    "length": 888000
+  }
+]

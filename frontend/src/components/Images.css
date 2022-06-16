@@ -1,0 +1,26 @@
+.images-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.images-grid p {
+    font-size: 0.85rem;
+}
+
+.images-grid div:hover {
+    background-color: var(--gray050);
+}
+
+@media (max-width: 800px) {
+    .images-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 500px) {
+    .images-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

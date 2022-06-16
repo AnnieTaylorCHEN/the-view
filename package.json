@@ -1,0 +1,16 @@
+{
+  "name": "the-view",
+  "version": "1.0.0",
+  "description": "small app to test picture and video loading features.",
+  "main": "index.js",
+  "scripts": {
+    "backend": "npm run server --prefix backend",
+    "frontend": "npm start --prefix frontend",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\" "
+  },
+  "author": "Annie Taylor Chen",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^7.2.2"
+  }
+}
